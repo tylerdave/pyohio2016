@@ -7,8 +7,8 @@ Usage:
   hello-docopt -h | --help
 
 Options:
-  -h --help       Show this screen.
-  -c --count=<int>   Number of times to print the greeting [default: 1].
+  -h --help          Show this screen.
+  -c --count=<int>   Times to print greeting [default: 1].
 """
 from docopt import docopt
 
