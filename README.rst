@@ -11,3 +11,13 @@ Installation
 
 ``pip install https://github.com/tylerdave/pyohio2016/archive/master.zip``
 
+Commands Provided
+-----------------
+
+After installing the package, the following example commands will be available:
+
+``hello-argparse
+hello-click
+hello-docopt
+pyohio-argparse
+pyohio-click``
