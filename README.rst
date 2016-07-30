@@ -16,8 +16,12 @@ Commands Provided
 
 After installing the package, the following example commands will be available:
 
-``hello-argparse
-hello-click
-hello-docopt
-pyohio-argparse
-pyohio-click``
+``hello-argparse``
+
+``hello-click``
+
+``hello-docopt``
+
+``pyohio-argparse``
+
+``pyohio-click``
