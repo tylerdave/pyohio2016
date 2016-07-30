@@ -11,10 +11,8 @@ PyOhio 2016 CLI Examples
 
 Examples for my PyOhio 2016 CLI talk.
 
-* Free software: MIT license
-* Documentation: (COMING SOON!) https://pyohio2016.readthedocs.org.
+Installation
+------------
 
-Features
---------
+`pip install https://github.com/tylerdave/pyohio2016/archive/master.zip`
 
-* TODO
