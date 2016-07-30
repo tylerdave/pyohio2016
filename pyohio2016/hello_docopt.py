@@ -12,10 +12,10 @@ Options:
 """
 from docopt import docopt
 
-def cli():
+def hello():
     args=docopt(__doc__)
     for i in xrange(int(args['--count'])):
         print("Hello, {0}!".format(args['<name>']))
 
 if __name__ == '__main__':
-    cli()
+    hello()

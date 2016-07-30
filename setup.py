@@ -39,9 +39,9 @@ setup(
         'console_scripts':[
             'pyohio-argparse=pyohio2016.cli_argparse:cli',
             'pyohio-click=pyohio2016.cli_click:cli',
-            'hello-argparse=pyohio2016.hello_argparse.hello',
-            'hello-click=pyohio2016.hello_click.hello',
-            'hello-docopt=pyohio2016.hello_docopt.hello',
+            'hello-argparse=pyohio2016.hello_argparse:hello',
+            'hello-click=pyohio2016.hello_click:hello',
+            'hello-docopt=pyohio2016.hello_docopt:hello',
             ],
         },
     include_package_data=True,
